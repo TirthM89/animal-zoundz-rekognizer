@@ -1,0 +1,48 @@
+body {
+    background-color: mediumseagreen;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.header_div {
+    background-color: maroon;
+    color: whitesmoke;
+    margin-bottom: 9px;
+
+
+}
+
+
+.header_div p {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script';
+    color: blanchedalmond;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    width: 100%;
+    background-color: maroon;
+    color: whitesmoke;
+    bottom: 0;
+    font-family: 'Dancing Script', cursive;
+    font-style: italic;
+    font-size: medium;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+
+}
+
+.main_div button {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    font-size: large;
+}
